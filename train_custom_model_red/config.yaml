@@ -1,0 +1,7 @@
+path: C:\Users\ASUS\Documents\Portfolio\School\Machine-Vision-Robotic-Arm\train_custom_model_red\data
+train: images\train
+val: images\train
+
+# classes
+names:
+  0: red box

@@ -19,7 +19,7 @@ class Kinematics:
 
     def get_lengths_of_links(self):
         return self.link_lengths
-    
+
     def set_angles(self, angles:list):
         if isinstance(angles, list) and len(angles) == 4:
             self.angles = angles

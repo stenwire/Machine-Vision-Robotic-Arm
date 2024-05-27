@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 numpy = "*"
 scipy = "*"
+ultralytics = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+imutils = "*"
+pyserial = "*"
 
 [dev-packages]
 
